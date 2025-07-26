@@ -1,4 +1,4 @@
-Of course. Here is a complete, step-by-step guide to run this script on a Windows computer, assuming you have never used Python before.
+Here is a complete, step-by-step guide to run this script on a Windows computer, assuming you have never used Python before.
 
 -----
 
